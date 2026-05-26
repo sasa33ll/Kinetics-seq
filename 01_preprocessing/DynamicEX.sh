@@ -1,0 +1,1 @@
+DynamicEX count --sample 1_5h --id 1_5h --inputdir /rawdata --gtf /reference/mm10.gtf --transcriptome /reference/star --library DECODER_2.0 --expect-cells 1000 --include_introns --outputdir ./result
